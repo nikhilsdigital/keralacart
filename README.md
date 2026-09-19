@@ -1,6 +1,4 @@
-user : nikhilsdigitalbusiness_db_user
-Pass : LN7qSsnMhLiUZSFM
-IP NEW : Current IP Address (103.166.245.199/32) added!
+
 
 # KeralaCart — Full Stack E-commerce (Next.js + MongoDB + Razorpay)
 
@@ -218,5 +216,6 @@ keralacart/
 11. Outro + demo
 
 ഇത് പ്രകാരം video segment ചെയ്‌താൽ editing-ഉം എളുപ്പം ആകും.
-#   k e r a l a c a r t  
+#   k e r a l a c a r t 
+ 
  
